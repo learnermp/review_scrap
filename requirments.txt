@@ -2,3 +2,4 @@ flask
 flask_corspip
 requests
 bs4
+pymongo
